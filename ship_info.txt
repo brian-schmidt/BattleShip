@@ -1,0 +1,5 @@
+Carrier 5 c
+Battleship 4 b
+Cruiser 3 r
+Submarine 3 s
+Destroyer 2 d 
