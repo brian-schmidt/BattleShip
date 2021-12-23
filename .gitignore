@@ -1,2 +1,9 @@
 # IGNORE THE SSH KEY
 .email_key.swp
+
+
+# IGNORE THE .o FILE CREATED FROM COMPILING battleship.cpp
+Battleship.o
+
+# IGNORE THE EXECUTABLE
+a.out
